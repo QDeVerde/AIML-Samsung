@@ -14,5 +14,7 @@ preprocess.py - препроцессинг
 
 train.py - тренировка
 
+### Для запуска проекта необходимо скачать тренированную версию модели
 
+https://drive.google.com/file/d/1zP1vu12A_zAerZtvQnfB5t442KBKbiB4/view?usp=sharing
 
